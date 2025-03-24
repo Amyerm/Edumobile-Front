@@ -1,0 +1,3 @@
+C:\Users\DELL\Desktop\EduMobile\edumobile.client\obj\Debug\edumobile.client.esproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\EduMobile-fail\edumobile.client\obj\Debug\edumobile.client.esproj.CoreCompileInputs.cache
+C:\Users\arime\Desktop\EduMobile-main\edumobile.client\obj\Debug\edumobile.client.esproj.CoreCompileInputs.cache

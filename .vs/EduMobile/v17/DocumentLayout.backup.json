@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arime\\Desktop\\EduMobile-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|c:\\users\\arime\\desktop\\edumobile-main\\edumobile.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|solutionrelative:edumobile.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|c:\\users\\arime\\desktop\\edumobile-main\\edumobile.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|solutionrelative:edumobile.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|c:\\users\\arime\\desktop\\edumobile-main\\edumobile.client\\src\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|solutionrelative:edumobile.client\\src\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|c:\\users\\arime\\desktop\\edumobile-main\\edumobile.client\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|solutionrelative:edumobile.client\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|c:\\users\\arime\\desktop\\edumobile-main\\edumobile.client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|solutionrelative:edumobile.client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|c:\\users\\arime\\desktop\\edumobile-main\\edumobile.client\\src\\components\\projectspanel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|solutionrelative:edumobile.client\\src\\components\\projectspanel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|c:\\users\\arime\\desktop\\edumobile-main\\edumobile.client\\src\\components\\maindashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|solutionrelative:edumobile.client\\src\\components\\maindashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|c:\\users\\arime\\desktop\\edumobile-main\\edumobile.client\\src\\components\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|solutionrelative:edumobile.client\\src\\components\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|c:\\users\\arime\\desktop\\edumobile-main\\edumobile.client\\src\\components\\myprojects.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|solutionrelative:edumobile.client\\src\\components\\myprojects.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|c:\\users\\arime\\desktop\\edumobile-main\\edumobile.client\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|solutionrelative:edumobile.client\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|c:\\users\\arime\\desktop\\edumobile-main\\edumobile.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6B4B9A1-6E97-4F73-BA35-B8205309ED38}|edumobile.client\\edumobile.client.esproj|solutionrelative:edumobile.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\DELL\\Desktop\\EduMobile\\edumobile.client\\node_modules\\react-dom\\cjs\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\tailwind.config.js",
+              "RelativeDocumentMoniker": "edumobile.client\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\tailwind.config.js",
+              "RelativeToolTip": "edumobile.client\\tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-24T21:55:36.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "postcss.config.js",
+              "DocumentMoniker": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\postcss.config.js",
+              "RelativeDocumentMoniker": "edumobile.client\\postcss.config.js",
+              "ToolTip": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\postcss.config.js",
+              "RelativeToolTip": "edumobile.client\\postcss.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-24T21:55:33.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectsPanel.jsx",
+              "DocumentMoniker": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\components\\ProjectsPanel.jsx",
+              "RelativeDocumentMoniker": "edumobile.client\\src\\components\\ProjectsPanel.jsx",
+              "ToolTip": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\components\\ProjectsPanel.jsx",
+              "RelativeToolTip": "edumobile.client\\src\\components\\ProjectsPanel.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-24T08:31:48.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.jsx",
+              "DocumentMoniker": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\components\\Dashboard.jsx",
+              "RelativeDocumentMoniker": "edumobile.client\\src\\components\\Dashboard.jsx",
+              "ToolTip": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\components\\Dashboard.jsx",
+              "RelativeToolTip": "edumobile.client\\src\\components\\Dashboard.jsx",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAAP0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-24T08:10:52.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "globals.css",
+              "DocumentMoniker": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\globals.css",
+              "RelativeDocumentMoniker": "edumobile.client\\src\\globals.css",
+              "ToolTip": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\globals.css",
+              "RelativeToolTip": "edumobile.client\\src\\globals.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-05T08:14:53.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "edumobile.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\App.jsx",
+              "RelativeToolTip": "edumobile.client\\src\\App.jsx",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAGEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-07T00:07:57.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "edumobile.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\main.jsx",
+              "RelativeToolTip": "edumobile.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-24T07:43:15.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainDashboard.jsx",
+              "DocumentMoniker": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\components\\MainDashboard.jsx",
+              "RelativeDocumentMoniker": "edumobile.client\\src\\components\\MainDashboard.jsx",
+              "ToolTip": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\components\\MainDashboard.jsx",
+              "RelativeToolTip": "edumobile.client\\src\\components\\MainDashboard.jsx",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-24T08:11:05.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyProjects.jsx",
+              "DocumentMoniker": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\components\\MyProjects.jsx",
+              "RelativeDocumentMoniker": "edumobile.client\\src\\components\\MyProjects.jsx",
+              "ToolTip": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\components\\MyProjects.jsx",
+              "RelativeToolTip": "edumobile.client\\src\\components\\MyProjects.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-24T08:31:22.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\package.json",
+              "RelativeDocumentMoniker": "edumobile.client\\package.json",
+              "ToolTip": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\package.json",
+              "RelativeToolTip": "edumobile.client\\package.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T07:21:24.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Header.jsx",
+              "DocumentMoniker": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\components\\Header.jsx",
+              "RelativeDocumentMoniker": "edumobile.client\\src\\components\\Header.jsx",
+              "ToolTip": "C:\\Users\\arime\\Desktop\\EduMobile-main\\edumobile.client\\src\\components\\Header.jsx",
+              "RelativeToolTip": "edumobile.client\\src\\components\\Header.jsx",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAowIQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-24T07:17:32.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "react-dom.development.js",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\EduMobile\\edumobile.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\DELL\\Desktop\\EduMobile\\edumobile.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\EduMobile\\edumobile.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeToolTip": "..\\..\\..\\DELL\\Desktop\\EduMobile\\edumobile.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-10T17:24:37.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
